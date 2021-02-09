@@ -356,7 +356,7 @@ video{
 .bilde1{
 	border-radius: 0px;
 	color:white;
-	background-image: url('images/forest_back.jpg'); 
+	background-image: url('forest_back.jpg'); 
 	position: relative;
 	background-position: top;
 	background-size: cover;
@@ -365,7 +365,7 @@ video{
 }
 .bilde2{
 	border-radius: 0px;
-	background-image: url('images/wood.jpg');
+	background-image: url('wood.jpg');
 	position: relative;
 	background-position: top;
 	background-size: cover;
